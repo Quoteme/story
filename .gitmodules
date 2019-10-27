@@ -1,0 +1,9 @@
+[submodule "lib/js/cutImg"]
+	path = lib/js/cutImg
+	url = https://github.com/Quoteme/cutImg
+[submodule "lib/js/voxel-mesh"]
+	path = lib/js/voxel-mesh
+	url = https://github.com/Quoteme/voxel-mesh
+[submodule "lib/js/path"]
+	path = lib/js/path
+	url = https://github.com/Quoteme/path
