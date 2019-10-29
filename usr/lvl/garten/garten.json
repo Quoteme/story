@@ -93,7 +93,7 @@
          "height":25,
          "id":5,
          "name":"Vordergrund",
-         "opacity":0.270000010728836,
+         "opacity":1,
          "properties":[
                 {
                  "name":"collision",
@@ -496,6 +496,41 @@
          "spacing":0,
          "tilecount":72,
          "tileheight":16,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"back",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"down",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"front",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"left",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"right",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"up",
+                         "type":"int",
+                         "value":12
+                        }]
+                }],
          "tilewidth":16
         }],
  "tilewidth":32,
