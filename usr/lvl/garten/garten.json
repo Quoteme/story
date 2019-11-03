@@ -235,12 +235,17 @@
                          "name":"img",
                          "type":"string",
                          "value":"player_image"
+                        }, 
+                        {
+                         "name":"obj",
+                         "type":"string",
+                         "value":"\/usr\/res\/models\/blonde_casual_HD\/Main.json"
                         }],
                  "rotation":0,
                  "type":"player",
                  "visible":true,
                  "width":32,
-                 "x":190,
+                 "x":192,
                  "y":638
                 }, 
                 {
@@ -398,7 +403,7 @@
  "nextlayerid":10,
  "nextobjectid":7,
  "orientation":"orthogonal",
- "renderorder":"right-down",
+ "renderorder":"right-up",
  "tiledversion":"1.2.5",
  "tileheight":32,
  "tilesets":[
