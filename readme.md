@@ -18,4 +18,4 @@ core features include:
 - To run the game, start a webserver inside the directory you downloaded
 all the of this repository into. Then just navigate to the address
 this webserver hostst the site on.
-- Visit story.quoteme.github.io
+- Visit [https://quoteme.github.io/story/](https://quoteme.github.io/story/)
