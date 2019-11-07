@@ -229,17 +229,17 @@
                  "gid":17,
                  "height":32,
                  "id":1,
-                 "name":"quote",
+                 "name":"Luca",
                  "properties":[
-                        {
-                         "name":"img",
-                         "type":"string",
-                         "value":"player_image"
-                        }, 
                         {
                          "name":"obj",
                          "type":"string",
                          "value":"\/usr\/res\/models\/blonde_casual_HD\/Main.json"
+                        }, 
+                        {
+                         "name":"z",
+                         "type":"float",
+                         "value":3
                         }],
                  "rotation":0,
                  "type":"player",
@@ -252,19 +252,24 @@
                  "gid":17,
                  "height":32,
                  "id":2,
-                 "name":"curly",
+                 "name":"Robert",
                  "properties":[
                         {
-                         "name":"img",
+                         "name":"obj",
                          "type":"string",
-                         "value":"usr\/chars\/playerCurly.png"
+                         "value":"\/usr\/res\/models\/rob_casual_HD\/Main.json"
+                        }, 
+                        {
+                         "name":"z",
+                         "type":"float",
+                         "value":3.35
                         }],
                  "rotation":0,
                  "type":"npc",
                  "visible":true,
                  "width":32,
-                 "x":382,
-                 "y":597
+                 "x":367,
+                 "y":666
                 }, 
                 {
                  "gid":17,
