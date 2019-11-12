@@ -7,3 +7,6 @@
 [submodule "lib/js/voxel-mesh"]
 	path = lib/js/voxel-mesh
 	url = https://github.com/Quoteme/voxel-mesh
+[submodule "lib/js/intersect"]
+	path = lib/js/intersect
+	url = https://github.com/Quoteme/intersect
