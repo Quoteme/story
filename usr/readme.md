@@ -49,4 +49,28 @@ Holzplattform. Als er sieht, wie ein Monster aus einem der Gefäße
 zu ihm Blickt und auf ihn los möchte rutscht er ab und fällt in die
 Leere.
 
+*_Titel wird angezeigt_*
+
 ### Kapitel 2 - Die fliegenden Inseln
+
+Ohne sich zu erinnern, wie er diesen Fall überleben konnte wacht
+der Junge in einem Häuschen umgeben von einem alten Mann und einem
+Mädchen auf. Diese erklären ihm, dass er vom Himmel gefallen ist,
+er jedoch langsam zum Boden glitt, weshalb sie ihn mit ihrem Flugboot
+aufsammeln konnten.
+Er erfährt, dass er in einer Welt gelandet ist, in welcher Leute
+mit ihren fliegenden Booten mittels Luftströmen und der geringeren
+Gravitation von einer fliegenden Insel zur nächsten reisen.
+Als er davon erzählt, dass er von der Oberfläche kommt und dass er
+durch ein Labor in diese Welt gestoßen sei denken die Bewohner,
+dass sich der Junge den Kopf gestoßen haben muss, als er aufgekommen
+ist.
+
+Er kann die Bewohner jedoch dadurch überzeugen, dass er modern
+angezogen ist, im Gegensatz zu den Bewohnern der Insel. Der ältere
+Mann gibt darauf hin dem Jungen seine Kristalle zurück, als ein Haufen
+Piraten ankommt und danach fragt, wieso ein grüner Blitz von dieser
+fliegenden Insel auskam.
+
+Als die Piraten das Haus der Bewohner inspizieren wollen bittet der
+ältere Mann darum, dass der Junge und das Mädchen fliehen.
