@@ -1,6 +1,6 @@
 # Die Geschichte
 
-### Kapitel 1 - Der Anfang
+### Kapitel 0 - Der Anfang
 
 In dem Spiel geht es um einen Jungen, welcher für sich alleine lebt
 und eines Tages ein verstecktes Buch findet, in dem es um
@@ -51,7 +51,7 @@ Leere.
 
 *_Titel wird angezeigt_*
 
-### Kapitel 2 - Die fliegenden Inseln
+### Kapitel 1 - Die fliegenden Inseln
 
 Ohne sich zu erinnern, wie er diesen Fall überleben konnte wacht
 der Junge in einem Häuschen umgeben von einem alten Mann und einem
