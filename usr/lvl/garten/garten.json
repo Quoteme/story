@@ -202,7 +202,7 @@
                          "value":3
                         }],
                  "rotation":0,
-                 "type":"player",
+                 "type":"PC",
                  "visible":true,
                  "width":32,
                  "x":161,
@@ -225,7 +225,7 @@
                          "value":3.35
                         }],
                  "rotation":0,
-                 "type":"bystander",
+                 "type":"NPC",
                  "visible":true,
                  "width":32,
                  "x":367,
@@ -248,7 +248,7 @@
                          "value":"usr\/npc\/goo.png"
                         }],
                  "rotation":0,
-                 "type":"hostile",
+                 "type":"NPC",
                  "visible":true,
                  "width":32,
                  "x":496,
@@ -271,7 +271,7 @@
                          "value":"usr\/npc\/goo.png"
                         }],
                  "rotation":0,
-                 "type":"hostile",
+                 "type":"NPC",
                  "visible":true,
                  "width":32,
                  "x":319,
@@ -294,7 +294,7 @@
                          "value":"usr\/npc\/goo.png"
                         }],
                  "rotation":0,
-                 "type":"hostile",
+                 "type":"NPC",
                  "visible":true,
                  "width":32,
                  "x":420,
@@ -317,7 +317,7 @@
                          "value":"usr\/npc\/goo.png"
                         }],
                  "rotation":0,
-                 "type":"hostile",
+                 "type":"NPC",
                  "visible":true,
                  "width":32,
                  "x":261,
