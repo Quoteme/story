@@ -369,7 +369,7 @@
  "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-up",
- "tiledversion":"1.3.0",
+ "tiledversion":"1.3.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -393,7 +393,7 @@
                          "value":105
                         }, 
                         {
-                         "name":"down",
+                         "name":"bottom",
                          "type":"int",
                          "value":89
                         }, 
@@ -413,7 +413,7 @@
                          "value":105
                         }, 
                         {
-                         "name":"up",
+                         "name":"top",
                          "type":"int",
                          "value":89
                         }]
@@ -427,7 +427,7 @@
                          "value":209
                         }, 
                         {
-                         "name":"down",
+                         "name":"bottom",
                          "type":"int",
                          "value":225
                         }, 
@@ -447,7 +447,7 @@
                          "value":209
                         }, 
                         {
-                         "name":"up",
+                         "name":"top",
                          "type":"int",
                          "value":225
                         }]
@@ -461,7 +461,7 @@
                          "value":215
                         }, 
                         {
-                         "name":"down",
+                         "name":"bottom",
                          "type":"int",
                          "value":214
                         }, 
@@ -486,7 +486,7 @@
                          "value":215
                         }, 
                         {
-                         "name":"up",
+                         "name":"top",
                          "type":"int",
                          "value":182
                         }],
@@ -515,7 +515,7 @@
                          "value":1
                         }, 
                         {
-                         "name":"down",
+                         "name":"bottom",
                          "type":"int",
                          "value":1
                         }, 
@@ -535,7 +535,7 @@
                          "value":1
                         }, 
                         {
-                         "name":"up",
+                         "name":"top",
                          "type":"int",
                          "value":12
                         }]
