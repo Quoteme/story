@@ -15,6 +15,11 @@ core features include:
 	- easy to reuse code
 
 # How to
+
+## Installation
+- `git clone --recursive https://github.com/quoteme/story`
+
+## Execution
 - To run the game, start a web-server inside the directory you downloaded
 all the of this repository into. Then just navigate to the address
 this web-server hostst the site on.
