@@ -7,9 +7,9 @@
 [submodule "lib/js/voxel-mesh"]
 	path = lib/js/voxel-mesh
 	url = https://github.com/Quoteme/voxel-mesh
-[submodule "lib/js/intersect"]
-	path = lib/js/intersect
-	url = https://github.com/Quoteme/intersect
 [submodule "lib/js/keyboard"]
 	path = lib/js/keyboard
 	url = https://github.com/Quoteme/keyboard
+[submodule "lib/js/intersect"]
+	path = lib/js/intersect
+	url = https://github.com/Quoteme/intersect.git
