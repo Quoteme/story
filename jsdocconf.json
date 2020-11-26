@@ -1,0 +1,12 @@
+{
+    "source": {
+        "include": ["./readme.md", "./lib/js/game/"],
+        "exclude": [],
+        "includePattern": ".+\\.(js(doc|x)?|mjs)$",
+        "excludePattern": "(^|\\/|\\\\)_"
+    },
+	"opts": {
+        "destination": "./docs/"
+    },
+	"plugins": ["plugins/markdown"]
+}
